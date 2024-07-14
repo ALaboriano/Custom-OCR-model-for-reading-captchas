@@ -1,0 +1,10 @@
+/.ipynb_chekpoints
+__pycache__
+/images
+/images2
+/tmp
+ALaboriano_Custom-OCR-model-for-reading-captchas.pdf
+*.csv
+*.exe
+keys.py
+screenie.png
