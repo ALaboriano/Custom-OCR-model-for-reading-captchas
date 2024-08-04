@@ -20,7 +20,7 @@ Para construir la base de datos se siguieron los siguientes pasos:
 
 Finalmente se logró armar una base de datos de 1,000 imágenes con sus respectivas etiquetas, en la siguiente imagen se muestra en resumen lo desarrollado en esta etapa.
 
-!![Proceso de etiquetado](image_label.png)
+![Proceso de etiquetado](image_label.png)
 
 ### 2.2. Experimentación.
 ### 2.3. Resultados.
