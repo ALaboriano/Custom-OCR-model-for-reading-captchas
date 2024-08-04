@@ -14,12 +14,12 @@ El objetivo de este proyecto es entrenar un modelo utilizando algoritmos de Visi
         - Actualizar la página para seguir entrayendo más imágenes.
     - Etiquetar las imágenes de los captchas extraídao. Este proceso incluye:
         - Cargar las imágenes.
-        - Extraer el texto de las imágenes utilizando la librería ``pytesseract``.
+        - Extraer el texto de las imágenes utilizando la librería pytesseract.
         - Guardar en una base de datos el id de la imagen y el texto extraído.
-    - Revisar manualmente las etiquetas obtenidas con ``pytesseract`` y corregirlas en caso de ser necesario.
+    - Revisar manualmente las etiquetas obtenidas con pytesseract y corregirlas en caso de ser necesario.
 
     Finalmente se logró armar una base de datos de 1,000 imágenes con sus respectivas etiquetas, en la siguiente imagen se muestra en resumen lo desarrollado en esta etapa.
-    ![alt text](image.png)
+    ![](image.png)
 
 ### 2.2. Experimentación.
 ### 2.3. Resultados.
