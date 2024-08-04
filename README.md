@@ -5,7 +5,7 @@ El objetivo de este proyecto es entrenar un modelo utilizando algoritmos de Visi
 
 ## 2. Metodología.
 ### 2.1. Base de datos.
-    Para construir la base de datos se siguieron los siguientes pasos:
+Para construir la base de datos se siguieron los siguientes pasos:
     - Desarrollo de un proceso de web scraping, el cual en resumen hacía lo siguiente:
         . Conectarse a la web de la cual se recuperó la información.
         . Tomar un screen shot de la pagina web.
